@@ -8,3 +8,4 @@
 - ⚡ Fun fact: i am human
 # notforked
 [![notforked's GitHub stats](https://github-readme-stats.vercel.app/api?username=notforked&show_icons=true&theme=github_dark)](#stats)
+[![ Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notforked&layout=compact&theme=github_dark)](#stats)
